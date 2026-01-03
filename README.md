@@ -1,11 +1,15 @@
 
 <h1 align="center">Mashiro</h1>
+<h3 align="center">💻 Aspiring Developer | Curious Learner | Code Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=8A2BE2&center=true&vCenter=true&width=520&lines=Learning+by+Building;Strong+Fundamentals;Clear+Logic;Steady+Progress" />
+  <img src="https://komarev.com/ghpvc/?username=x10-samir&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
 
 ## Overview
 I am a  
@@ -62,7 +66,32 @@ This approach helps me understand not only *what* works, but *why* it works.
 <p align="center">
   <em>Quiet work. Strong foundations. Continuous improvement.</em>
 </p>
+  
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=x10-samir&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x10-samir&theme=tokyonight" />
+</p>
+
+---
+
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/x10-samir">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github" />
+  </a>
+  <a href="mailto:masarapcyrus@email.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
+  </a>
+</p>
+
+---
 
 ## 🧩 CURRENT GRIND
 - Strengthening **HTML & CSS fundamentals**
