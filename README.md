@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahpankaj123&label=NEON+XP&color=red&style=flat-square" />
 </p>
 
 <p align="center">
@@ -56,22 +55,18 @@ No rush. Just progress.
 
 ## 📊 STATS (NO TALK, JUST NUMBERS)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahpankaj123&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahpankaj123&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
 ## 🐍 NEON TRAIL (CONTRIBUTION SNAKE)
 <p align="center">
-  <img src="https://github.com/shahpankaj123/shahpankaj123/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🌐 CONNECTIONS
 <p align="center">
-  <a href="https://github.com/shahpankaj123">
     <img src="https://img.shields.io/badge/GITHUB-1a1a1a?style=for-the-badge&logo=github&logoColor=red"/>
   </a>
 </p>
