@@ -70,12 +70,10 @@ This approach helps me understand not only *what* works, but *why* it works.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x10-samir&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x10-samir&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x10-samir&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x10-samir&theme=radical" />
 </p>
 
 ---
